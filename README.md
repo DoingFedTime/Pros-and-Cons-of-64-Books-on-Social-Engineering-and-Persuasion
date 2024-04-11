@@ -10,6 +10,10 @@ Welcome to the GitHub repository for an interactive mindmap featuring an extensi
 
 ## How to Use
 
+Look at it.
+
+[Mindmap Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR6MDQzbmI3aWs0aXVsaGR1czV3OGwwMWRzZDJ6czI4emJlb3loYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWtHgcQFQoJZaemMOj/giphy.gif)
+
 ### Viewing the Mindmap
 
 To view the interactive mindmap:
